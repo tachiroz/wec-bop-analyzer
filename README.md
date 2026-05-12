@@ -16,7 +16,7 @@ The project provides a weighted scoring model to evaluate manufacturer performan
 
 | Trends | Heatmap |
 |--------|---------|
-| ![Trends](docs/screenshots/trends.jpg) | ![Heatmap](docs/screenshots/model_deep_dive.jpg) |
+| ![Trends](docs/screenshots/trends.jpg) | ![Heatmap](docs/screenshots/model_deep_dive.png) |
 
 ---
 
