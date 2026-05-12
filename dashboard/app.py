@@ -3,6 +3,7 @@
 import sys
 sys.path.append('../src')
 
+import os
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -45,7 +46,8 @@ HG_COLORS = {
     'GT3':  '#006494',
 }
 
-DB_PATH = '../data/processed/wec_bop.db'
+# DB_PATH = '../data/processed/wec_bop.db'
+DB_PATH = os.path.join(os.path.dirname(__file__), 'wec_bop.db')
 
 # ─── Data loading ─────────────────────────────────────────────────────────────
 @st.cache_data
