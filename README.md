@@ -1,6 +1,6 @@
-# wec-bop-analyzer
-
 # 🏁 WEC BoP Analyzer
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://wec-bop-analyzer.streamlit.app)
 
 A data analytics project that quantifies **Balance of Performance (BoP)** effectiveness in the FIA World Endurance Championship (WEC) using lap time data from 2021–2025 seasons.
 
